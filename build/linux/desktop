@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=桌面宠物
+Comment=Desktop 3D pet
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/pcserve.exe %u
+Terminal=false
+Type=Application
+Icon=pcserve.exe
+Categories=Utility;
+StartupWMClass=pcserve.exe
+
+ 
